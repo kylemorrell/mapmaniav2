@@ -1,0 +1,10 @@
+[
+    {"content":"<strong>#1": "Plainfield, IL... Home!</strong>", "coordinates":{"lat":41.6322,"lng":-88.2120}, "iconImagePath":"one.png},
+    {"content":"Portland, OR", "coordinates":{"lat":45.5051,"lng":-122.6750}, "iconImagePath":"one.png},
+    {"content":Toronto, Canada", "coordinates":{"lat":43.6532,"lng":-79.3832}, "iconImagePath":"one.png},
+    {"content":"Zakopane, Poland", "coordinates":{"lat":49.2992,"lng":19.9496}, "iconImagePath":"one.png},
+    {"content":"Guadalajara, Mexico", "coordinates":{"lat":20.6597,"lng":-103.3496}, "iconImagePath":"one.png},
+    {"content":"Cape Town, South Africa", "coordinates":{"lat":-33.9249,"lng":18.4241}, "iconImagePath":"one.png},
+    {"content":"Jalandhar, India", "coordinates":{"lat":31.3260,"lng":75.5762}, "iconImagePath":"one.png},
+    {"content":"Sydney, Australia", "coordinates":{"lat":-33.8688,"lng":151.2093}, "iconImagePath":"one.png},
+]

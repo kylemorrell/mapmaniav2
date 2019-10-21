@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang=en>
+<!--
+    Author: Kyle Morrell
+    Class: Web & Distributed Programming
+    Project: Map Mania v2
+    Session: su18-cpsc-24700-lt1
+  Description: This is the first version of Map Mania that I am creating for Programming Assignment 3. 
+-->
+    <head>
+        <title>Map Mania v2</title>>
+        <meta charset="UTDF-8"
+        <link rel="stylesheet" href="MapManiav2.css">
+        <script src="MapManiav2.js"></script>
+        <style>
+            #myMapID {
+                height: 100%;
+                width: 100%;
+            }
+            
+            html, body{
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+        </style>
+    </head>
+    <body onload="initApplication()">\
+        <h1>Map Mania v2</h1>
+
+        <div id="myMapID"></div>
+
+        <script>src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAsV8yOsphlVk-q4ACwoSxlVVegLdXYG38&callback=initMap"
+            async defer>
+        </script>
+    </body>
+</html>
